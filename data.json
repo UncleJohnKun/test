@@ -1,13 +1,13 @@
 {
-    "id": 1,
-    "name": "JD",
-    "email": "test@gmail.com",
-    "address" : {
-        "street": "test",
-        "city": "test"
+    id: 1,
+    name: "JD",
+    email: "test@gmail.com",
+    address : {
+        street: "test",
+        city: "test"
     }, 
-    "company" : {
-        "test-1": "test",
-        "test-2": "test",
+    company : {
+        test1: "test",
+        test2: "test",
     } 
 }
